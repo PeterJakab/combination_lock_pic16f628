@@ -1,5 +1,5 @@
-combination_lock_pic16f84
-=========================
+combination_lock_pic16f628
+==========================
 
 Electronic combination lock for the PIC16F628 (v2-025)
 
